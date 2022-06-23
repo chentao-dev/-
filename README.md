@@ -1,2 +1,2 @@
 预览地址: 
-chentao-dev.github.io/no-game-no-life/
+https://chentao-dev.github.io/NO-GAME-NO-LIFE/
